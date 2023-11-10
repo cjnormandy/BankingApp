@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cj/Documents/BankApp/BankAccountApp/BankAccountApp.csproj",
+      "projectUniqueName": "/Users/cj/Desktop/BankingApp/BankAccountApp/BankAccountApp.csproj",
       "projectName": "BankAccountApp",
-      "projectPath": "/Users/cj/Documents/BankApp/BankAccountApp/BankAccountApp.csproj",
+      "projectPath": "/Users/cj/Desktop/BankingApp/BankAccountApp/BankAccountApp.csproj",
       "packagesPath": "/Users/cj/.nuget/packages/",
-      "outputPath": "/Users/cj/Documents/BankApp/BankAccountApp/obj/",
+      "outputPath": "/Users/cj/Desktop/BankingApp/BankAccountApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cj/.nuget/NuGet/NuGet.Config"

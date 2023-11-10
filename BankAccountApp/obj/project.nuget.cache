@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g3QnE05hJYTTdYt6kDNbFvpye3qlHY3+zb6fRf26tgX5/3fLx9N9kL+XoFRk+vOVioONHHrV9PQMf8hbgyycZw==",
+  "dgSpecHash": "CnL+HBwscuMokkpEVZIjJcXTV7z0E5KiS/3h4jlmIx2AfM09is+i/KfW4HsHU5wZs9KcjFrI8Wf3Fu6g3WZm3g==",
   "success": true,
-  "projectFilePath": "/Users/cj/Documents/BankApp/BankAccountApp/BankAccountApp.csproj",
+  "projectFilePath": "/Users/cj/Desktop/BankingApp/BankAccountApp/BankAccountApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
